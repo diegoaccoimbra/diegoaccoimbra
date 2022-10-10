@@ -1,4 +1,4 @@
-## Oi, eu sou o Diego! 👋
+# Oi, eu sou o Diego! 👋
 
 - 📚 Bacharel em Ciência e Tecnologia e atualmente cursando Engenharia da Computação.
 - 🔭 Estou tabalhando em projetos pessoais.
