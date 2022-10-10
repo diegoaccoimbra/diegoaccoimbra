@@ -4,8 +4,6 @@
 - 🔭 Estou tabalhando em projetos pessoais.
 - 🌱 Estou aprendendo JavaScript.
 
-##
-
 <div align="center">
   <a href="https://github.com/diegoaccoimbra">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=diegoaccoimbra&count_private=true&show_icons=true&theme=gotham"/>
