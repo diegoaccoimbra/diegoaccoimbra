@@ -1,7 +1,7 @@
 # Oi, eu sou o Diego! 👋
 
 - 📚 Bacharel em Ciência e Tecnologia e atualmente cursando Engenharia da Computação.
-- 🔭 Estou tabalhando em projetos pessoais.
+- 🔭 Estou trabalhando em projetos pessoais.
 - 🌱 Estou aprendendo JavaScript.
 
 ##
