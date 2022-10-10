@@ -7,12 +7,9 @@
 ##
 
 <div align="center">
-<a href="https://github.com/diegoaccoimbra/github-readme-stats">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=diegoaccoimbra&count_private=true&show_icons=true&theme=gotham"/> 
-</a>
-<a href="https://github.com/diegoaccoimbra/convoychat">
+  <a href="https://github.com/diegoaccoimbra">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=diegoaccoimbra&count_private=true&show_icons=true&theme=gotham"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaccoimbra&layout=compact&show_icons=true&theme=gotham"/>
-</a>
 </div>
 
 <div style="display: inline_block"><br>
