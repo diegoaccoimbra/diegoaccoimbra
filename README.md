@@ -8,10 +8,10 @@
 
 <div align="center">
 <a href="https://github.com/diegoaccoimbra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoaccoimbra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoaccoimbra&count_private=true&show_icons=true&theme=gotham"/> 
 </a>
 <a href="https://github.com/diegoaccoimbra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaccoimbra&layout=compact&langs_count=7&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoaccoimbra&layout=compact&show_icons=true&theme=gotham"/>
 </a>
 </div>
 
