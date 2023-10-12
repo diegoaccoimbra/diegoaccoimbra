@@ -1,6 +1,6 @@
 # Oi, eu sou o Diego! 👋
 
-- 🎓 Bacharel em Ciência e Tecnologia.
+- 🎓 Graduando em Ciência da Computação.
 - 💻 Estou trabalhando em projetos pessoais.
 - 📚 Estou aprendendo JavaScript.
 
