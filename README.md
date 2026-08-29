@@ -5,7 +5,7 @@
 - 💡 Focado em resolver problemas através da tecnologia e desenvolvimento de software.
 
 ### 🛠️ Ferramentas e Tecnologias
-<img src="https://skillicons.dev/icons?i=cs,py,js,html,css,react,mysql,git" />
+<img src="https://skillicons.dev/icons?i=cs,py,nodejs,js,html,css,react,mysql,git" />
 
 ### 📫 Vamos nos conectar
 <a href="https://www.linkedin.com/in/diego-coimbra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
