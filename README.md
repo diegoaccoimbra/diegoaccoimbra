@@ -2,7 +2,7 @@
 
 - 🎓 Graduado em **Ciência da Computação**.
 - 📚 Estudando desenvolvimento **Backend** e boas práticas de código.
-- 💡 Apaixonado por resolver problemas através da tecnologia e desenvolvimento de software.
+- 💡 Focado em resolver problemas através da tecnologia e desenvolvimento de software.
 
 ### 🛠️ Ferramentas e Tecnologias
 <img src="https://skillicons.dev/icons?i=cs,py,js,html,css,react,mysql,git" />
